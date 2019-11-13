@@ -1,0 +1,9 @@
+tex 内
+
+\usepackage{revhistory} -> header
+\importrevisions -> 変更後にあわせて実行
+
+
+\rev{変更前}{変更後}
+\radd{追加}
+\rdel{削除}
